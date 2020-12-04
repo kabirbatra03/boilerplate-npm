@@ -3,7 +3,7 @@
 	"author": "Kabir Batra",
 	"description": "A project that does something awesome",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.17.1"
 	},
 	"main": "server.js",
 	"scripts": {
